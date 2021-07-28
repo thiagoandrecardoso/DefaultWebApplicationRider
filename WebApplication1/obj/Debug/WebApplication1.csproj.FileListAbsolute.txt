@@ -1,0 +1,150 @@
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/WebApplication1.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/WebApplication1.pdb
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/csc.exe
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/csc.exe.config
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/csc.rsp
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/csi.exe
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/csi.exe.config
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/csi.rsp
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.AppContext.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Collections.Immutable.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Console.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.IO.Compression.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.IO.FileSystem.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.IO.Pipes.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Reflection.Metadata.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.AccessControl.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.Claims.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.ValueTuple.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Xml.XPath.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/vbc.exe
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/vbc.exe.config
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/vbc.rsp
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/VBCSCompiler.exe
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/roslyn/VBCSCompiler.exe.config
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Antlr3.Runtime.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Microsoft.Web.Infrastructure.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Newtonsoft.Json.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Helpers.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Mvc.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Optimization.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Razor.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.WebPages.Deployment.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.WebPages.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.WebPages.Razor.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/WebGrease.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Helpers.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Mvc.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Optimization.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.Razor.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.WebPages.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.WebPages.Deployment.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/System.Web.WebPages.Razor.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Newtonsoft.Json.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Antlr3.Runtime.pdb
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csprojAssemblyReference.cache
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csproj.CopyComplete
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/obj/Debug/WebApplication1.dll
+/Users/thiagocardoso/RiderProjects/WebApplication1/WebApplication1/obj/Debug/WebApplication1.pdb
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/WebApplication1.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/WebApplication1.pdb
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/csc.exe
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/csc.exe.config
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/csc.rsp
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/csi.exe
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/csi.exe.config
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/csi.rsp
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.AppContext.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Collections.Immutable.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Console.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.IO.Compression.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.IO.FileSystem.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.IO.Pipes.AccessControl.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.IO.Pipes.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Reflection.Metadata.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.AccessControl.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.Claims.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Security.Principal.Windows.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.ValueTuple.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Xml.XPath.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/vbc.exe
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/vbc.exe.config
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/vbc.rsp
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/VBCSCompiler.exe
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/roslyn/VBCSCompiler.exe.config
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Antlr3.Runtime.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Microsoft.Web.Infrastructure.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Newtonsoft.Json.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Helpers.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Mvc.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Optimization.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Razor.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.WebPages.Deployment.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.WebPages.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.WebPages.Razor.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/WebGrease.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Helpers.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Mvc.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Optimization.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.Razor.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.WebPages.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.WebPages.Deployment.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/System.Web.WebPages.Razor.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Newtonsoft.Json.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Antlr3.Runtime.pdb
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csprojAssemblyReference.cache
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csproj.CoreCompileInputs.cache
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/obj/Debug/WebApplication1.csproj.CopyComplete
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/obj/Debug/WebApplication1.dll
+/Users/thiagocardoso/Documents/01 Git/06 ASP NET CORE/WebApplication1/WebApplication1/obj/Debug/WebApplication1.pdb
